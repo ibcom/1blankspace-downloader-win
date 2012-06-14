@@ -1,0 +1,15 @@
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\bin\Release\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\bin\Release\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\obj\Release\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\obj\Release\HttpLibrary.pdb
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace_attachment_loader\HttpLibrary\bin\Release\HttpLibrary.dll
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace_attachment_loader\HttpLibrary\bin\Release\HttpLibrary.pdb
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace_attachment_loader\HttpLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace_attachment_loader\HttpLibrary\obj\Release\HttpLibrary.dll
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace_attachment_loader\HttpLibrary\obj\Release\HttpLibrary.pdb
+C:\ibCom\Development\File Uploader\mydigitalspace_attachment_loader\HttpLibrary\bin\Release\HttpLibrary.dll
+C:\ibCom\Development\File Uploader\mydigitalspace_attachment_loader\HttpLibrary\bin\Release\HttpLibrary.pdb
+C:\ibCom\Development\File Uploader\mydigitalspace_attachment_loader\HttpLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\ibCom\Development\File Uploader\mydigitalspace_attachment_loader\HttpLibrary\obj\Release\HttpLibrary.dll
+C:\ibCom\Development\File Uploader\mydigitalspace_attachment_loader\HttpLibrary\obj\Release\HttpLibrary.pdb

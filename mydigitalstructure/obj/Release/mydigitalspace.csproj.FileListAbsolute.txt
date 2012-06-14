@@ -1,0 +1,31 @@
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.exe
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\bin\Release\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\bin\Release\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.frmLogin.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.frmUpload.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.Properties.Resources.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.csproj.GenerateResource.Cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.exe
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.exe.manifest
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.application
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.exe.manifest
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.application
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.exe
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.pdb
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.exe.manifest
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.application
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.exe
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\bin\Release\mydigitalspace.pdb
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\bin\Release\HttpLibrary.dll
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\bin\Release\HttpLibrary.pdb
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\ResolveAssemblyReference.cache
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.frmLogin.resources
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.frmUpload.resources
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.Properties.Resources.resources
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\GenerateResource.read.1.tlog
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\GenerateResource.write.1.tlog
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.exe.manifest
+C:\ibCom\Development\File Uploader\mydigitalspace_2\mydigitalspace\mydigitalspace\obj\Release\mydigitalspace.application

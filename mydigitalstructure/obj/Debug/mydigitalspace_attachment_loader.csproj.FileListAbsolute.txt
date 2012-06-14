@@ -1,0 +1,17 @@
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\bin\Debug\mydigitalspace_attachment_loader.exe.manifest
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\bin\Debug\mydigitalspace_attachment_loader.application
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\bin\Debug\mydigitalspace_attachment_loader.exe
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\bin\Debug\mydigitalspace_attachment_loader.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\bin\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\bin\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\mydigitalspace.frmLogin.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\mydigitalspace.frmUpload.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\mydigitalspace_attachment_loader.Properties.Resources.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\mydigitalspace_attachment_loader.exe.manifest
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\mydigitalspace_attachment_loader.application
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\mydigitalspace_attachment_loader.exe
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\obj\Debug\mydigitalspace_attachment_loader.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\mydigitalspace\bin\Debug\mydigitalspace_attachment_loader.exe.config

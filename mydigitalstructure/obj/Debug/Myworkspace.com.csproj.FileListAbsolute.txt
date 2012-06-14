@@ -1,0 +1,11 @@
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\bin\Debug\Myworkspace.com.exe
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\bin\Debug\Myworkspace.com.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\obj\Debug\Myworkspace.com.frmLogin.resources
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\obj\Debug\Myworkspace.com.frmUpload.resources
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\obj\Debug\Myworkspace.com.Properties.Resources.resources
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\obj\Debug\Myworkspace.com.csproj.GenerateResource.Cache
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\obj\Debug\Myworkspace.com.exe
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\obj\Debug\Myworkspace.com.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\bin\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\Myworkspace.com\bin\Debug\HttpLibrary.pdb

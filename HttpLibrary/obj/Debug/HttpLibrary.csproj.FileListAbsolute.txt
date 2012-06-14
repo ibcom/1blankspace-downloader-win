@@ -1,0 +1,25 @@
+C:\Documents and Settings\z_ozen\Desktop\HttpClient\HttpLibrary\bin\Debug\HttpLibrary.dll
+C:\Documents and Settings\z_ozen\Desktop\HttpClient\HttpLibrary\bin\Debug\HttpLibrary.pdb
+C:\Documents and Settings\z_ozen\Desktop\HttpClient\HttpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\z_ozen\Desktop\HttpClient\HttpLibrary\obj\Debug\HttpLibrary.dll
+C:\Documents and Settings\z_ozen\Desktop\HttpClient\HttpLibrary\obj\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\HttpLibrary\bin\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\HttpLibrary\bin\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\HttpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\HttpLibrary\obj\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\Myworkspace.com\Myworkspace.com\HttpLibrary\obj\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\bin\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\bin\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\obj\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\HttpLibrary\obj\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\HttpLibrary\bin\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\HttpLibrary\bin\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\HttpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\HttpLibrary\obj\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\2.0\HttpLibrary\obj\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment downloader\HttpLibrary\bin\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment downloader\HttpLibrary\bin\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment downloader\HttpLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment downloader\HttpLibrary\obj\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment downloader\HttpLibrary\obj\Debug\HttpLibrary.pdb

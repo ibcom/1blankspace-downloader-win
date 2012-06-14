@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HttpLibrary.HttpMessage">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="HttpLibrary.HttpMessage.Request" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>http.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="HttpLibrary.HttpMessage.Response" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>http.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAIABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.HttpConnection">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Events" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="HttpLibrary.HttpConnection.AsyncResultBase" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>http.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAEAAAAAAAAAAAAAAAAAAAAACMAA=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HttpLibrary.HttpWebRequestConnection">
+    <Position X="4" Y="4.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="HttpLibrary.HttpWebRequestConnection.AsyncResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>http.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.HttpSocketConnection">
+    <Position X="2" Y="4.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="HttpLibrary.HttpSocketConnection.AsyncResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>http.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <InheritanceLine Type="HttpLibrary.HttpConnection" FixedToPoint="true">
+      <Path>
+        <Point X="2.75" Y="4.087" />
+        <Point X="2.75" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIAAAgAAAAAAACEAgAAAAAAAAAAAAAIAJAA=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.WatchedStream">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EIAAAAAAACAQQAAwGAAAKABgAAAAAAAAAIAAAAGIQCQ=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.BandwidthControlledStream">
+    <Position X="5.75" Y="1" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <InheritanceLine Type="HttpLibrary.WatchedStream" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="1.438" />
+        <Point X="5.623" Y="1.438" />
+        <Point X="5.623" Y="1.438" />
+        <Point X="5.75" Y="1.438" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.BandWidthManager">
+    <Position X="6" Y="2.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAQAAAAEAAAAAAAAAAACAEAAAAAQIAA=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.WatchedStreamTransferArgs">
+    <Position X="4" Y="2.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Http.cs</FileName>
+      <NewMemberFileName>http.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.HttpPostBodyBuilder">
+    <Position X="2" Y="8.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="HttpLibrary.HttpPostBodyBuilder.UrlEncoded" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PostBody.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="HttpLibrary.HttpPostBodyBuilder.Multipart" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PostBody.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAACAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>PostBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.MergingStream">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAQAAgGAAAAAJiAAAAAAAAAAAEAAEIACA=</HashCode>
+      <FileName>PostBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HttpLibrary.HttpUtility">
+    <Position X="5.75" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAIAAAIAAAAAACAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>PostBody.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
